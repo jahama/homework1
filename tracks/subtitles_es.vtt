@@ -1,0 +1,15 @@
+1
+00:00:00.500 --> 00:00:04.000 
+Este es un ejemplo de uso de la etiqueta TRACK
+
+2
+00:00:04.500 --> 00:00:07.300
+Este elemento es usado para especificar subtitulos
+
+3
+00:00:08.000 --> 00:00:09.000
+caption files 
+
+4
+00:00:09.100 --> 00:00:13.000
+u otros archivos que contiene texto, que deben ser visibles cuando se esta visualizando el video

@@ -1,0 +1,17 @@
+WEBVTT FILE
+
+1
+00:00:00.500 --> 00:00:04.000 
+This is an example of using the label <h1>TRACK</h1>
+
+2
+00:00:04.500 --> 00:00:07.300
+This element is used to specify subtitles, 
+
+3
+00:00:08.000 --> 00:00:09.000
+caption files 
+
+4
+00:00:09.100 --> 00:00:13.000
+or other files containing text, that should be visible when the media is playing.
